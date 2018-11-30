@@ -12,4 +12,4 @@ story_objects = parsed_json.map do |story|
 end
 
 puts story_objects
-binding.pry
+
